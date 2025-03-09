@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>Título 1</h1>
+<!-- <h1>Título 1</h1>
 <h2>Título 2</h2>
 <h3>Título 3</h3>
 <h4>Título 4</h4>
@@ -32,7 +32,7 @@
 | Texto 3 | Texto 4 |
 
 Texto 1 <br>
-Texto 2
+Texto 2 -->
 
 
 <!--
