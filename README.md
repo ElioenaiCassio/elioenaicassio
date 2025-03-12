@@ -1,4 +1,6 @@
-## Hi there 👋
+<center><h1> 👋 Olá </h1></center>
+
+👨‍💻 Me chamo Elioenai Cássio, sou programador FullStack Junior, estou me formando em Ciências da Computação. 🖥️ Gosto de programar e procuro sempre inspirações na programação para seguir em frente.
 
 <!-- <h1>Título 1</h1>
 <h2>Título 2</h2>
