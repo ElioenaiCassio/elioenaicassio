@@ -2,6 +2,14 @@
 
 👨‍💻 Me chamo Elioenai Cássio, sou programador FullStack Junior, estou me formando em Ciências da Computação. 🖥️ Gosto de programar e procuro sempre inspirações na programação para seguir em frente.
 
+📫[Linkedin](https://br.linkedin.com/in/elioenaicassio)
+
+### Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px"/>
+
 <!-- <h1>Título 1</h1>
 <h2>Título 2</h2>
 <h3>Título 3</h3>
