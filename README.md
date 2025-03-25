@@ -5,10 +5,11 @@
 📫[Linkedin](https://br.linkedin.com/in/elioenaicassio)
 
 ### Tecnologias
-
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px"/>
+</p>
 
 <!-- <h1>Título 1</h1>
 <h2>Título 2</h2>
