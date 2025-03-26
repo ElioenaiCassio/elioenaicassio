@@ -4,19 +4,18 @@
 
 📫[Linkedin](https://br.linkedin.com/in/elioenaicassio)
 
+---
 ### Tecnologias
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50px"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60px"/>
 </p>
-<p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elioenaicassio&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elioenaicassio&layout=compact&theme=radical)
 
-</p>
 <!-- <h1>Título 1</h1>
 <h2>Título 2</h2>
 <h3>Título 3</h3>
