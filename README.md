@@ -1,6 +1,6 @@
 <center><h1> 👋 Olá </h1></center>
 
-👨‍💻 Me chamo Elioenai Cássio, sou programador FullStack Junior, estou me formando em Ciências da Computação. 🖥️ Gosto de programar e procuro sempre inspirações na programação para seguir em frente.
+👨‍💻 Me chamo Elioenai Cássio, sou programador Junior, formado em Ciências da Computação. 🖥️ Gosto de programar e procuro sempre inspirações na programação para seguir em frente.
 
 📫[Linkedin](https://br.linkedin.com/in/elioenaicassio)
 
