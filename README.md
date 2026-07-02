@@ -23,6 +23,16 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elioenaicassio&layout=compact&theme=radical)
 
+### Projetos
+ 
+[Sorvaco](https://felpojam.com/game/187d60e9-abd9-441b-8748-19bf4316ad95)
+<p>
+Jogo feito para FelpoJam (Game jam brasileira realizada em fervereiro de 2026) em conjunto com 4 amigos
+</p>
+ 
+
+
+
 <!-- <h1>Título 1</h1>
 <h2>Título 2</h2>
 <h3>Título 3</h3>
